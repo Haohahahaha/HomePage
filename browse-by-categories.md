@@ -3,7 +3,7 @@
 
 [back](./index.md)
 
-1. [test](test.haohaha.cn) 
+1. [test](http://test.haohaha.cn/) 
 2. 
 3. 
 4. 
