@@ -5,20 +5,26 @@
 
 
 
-- ##### [目录](./browse-by-categories.md); [FAQ](./FAQ.md); [最近更新](./latest-updates.md)
+- #### [FAQ](./FAQ.md); [最近更新](./latest-updates.md)
 
 - 这是我的个人站，里面主要记录我的学习内容，目前准大三狗一枚，欢迎交流！
 
   - 主要学习的大方向：操作系统/体系结构
 
-  - 学校：北京某双非
+  - 学校：
 
 ---
 
 ## 简介有待补充
 
----
+### 目录：
 
+1. [算法打卡](https://alg.haohaha.cn)
+2. [数学笔记](https://math.haohaha.cn)
+3. [英语笔记](https://eng.haohaha.cn)
+4. [CS笔记](https://cs.haohaha.cn)
+5. [我爱OS](https://os.haohaha.cn)
+6. [闲聊波尔卡](https://chat.haohaha.cn)
 
 ### 我的其他平台：
 
