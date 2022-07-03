@@ -24,7 +24,9 @@
 
 [Bilibili](https://space.bilibili.com/1436476753)
 
-公众号（二维码需要补充：）
+公众号：
+
+![QRCode](./pic/QRCode.jpg)
 
 
 
