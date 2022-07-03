@@ -1,9 +1,10 @@
 <div id="top"></div>
+
+[算法打卡](https://alg.haohaha.cn) [数学笔记](https://math.haohaha.cn) [英语笔记](https://eng.haohaha.cn) [CS笔记](https://cs.haohaha.cn) [我爱OS](https://os.haohaha.cn) [闲聊波尔卡](https://chat.haohaha.cn)
+
 <div align="center">
 	<img src="./pic/haohaha.PNG" width="250px">
 </div>
-
-
 
 - #### [FAQ](./FAQ.md); [最近更新](./latest-updates.md)
 
@@ -11,20 +12,13 @@
 
   - 主要学习的大方向：操作系统/体系结构
 
-  - 学校：
+  - BIGC 计算机科学与技术系 大二本科在读
 
 ---
 
 ## 简介有待补充
 
-### 目录：
-
-1. [算法打卡](https://alg.haohaha.cn)
-2. [数学笔记](https://math.haohaha.cn)
-3. [英语笔记](https://eng.haohaha.cn)
-4. [CS笔记](https://cs.haohaha.cn)
-5. [我爱OS](https://os.haohaha.cn)
-6. [闲聊波尔卡](https://chat.haohaha.cn)
+---
 
 ### 我的其他平台：
 
