@@ -16,10 +16,6 @@
 
 ---
 
-## 简介有待补充
-
----
-
 ### 我的其他平台：
 
 [Bilibili](https://space.bilibili.com/1436476753)
