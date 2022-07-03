@@ -22,8 +22,9 @@
 
 公众号：
 
-![QRCode](./pic/QRCode.jpg)
-
+<div align="center">
+	<img src="./pic/QRCode.jpg" width="150px">
+</div>
 
 
 
