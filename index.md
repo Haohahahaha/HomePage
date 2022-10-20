@@ -6,7 +6,7 @@
 	<img src="./pic/haohaha.PNG" width="250px">
 </div>
 
-### 2022.09: 主要更新于[:turtle:算法打卡（较慢）](http://alg.haohaha.cn)和[:fast_forward: CS笔记（较快，主要为考研笔记）](http://cs.haohaha.cn).
+- ### 2022.09: 主要更新于[算法打卡（较慢）](http://alg.haohaha.cn)和[CS笔记（较快，主要为考研笔记）](http://cs.haohaha.cn).
 
 - 这是我的个人站，里面主要记录我的学习内容，欢迎交流！
 
