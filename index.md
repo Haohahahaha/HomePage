@@ -32,9 +32,13 @@
 
 ### 友链：
 
-- [慕青の迷途](https://cecilia.cool) （技术圈的好朋友）
+- [南慕青](https://cecilia.cool) （技术圈的好朋友）
 
-  = 冲天香阵透长安，满城尽带黄金甲 =
+  `Java学徒`
+  
+- [一题都a不出来](https://github.com/SobSobDu/share-personal-note)（技术圈的好朋友）
+
+  `学学技术，准备考研`
 
 
 
