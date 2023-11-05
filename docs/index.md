@@ -1,4 +1,4 @@
-# 浩哈哈哈哈
+# 主页
 
 <div align="center">
 	<img src="./pic/haohaha.PNG" width="250px">
