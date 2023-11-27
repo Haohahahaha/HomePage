@@ -2,9 +2,7 @@
 
 !!! note "自我介绍"
 
-    <div align="center">
-	    <img src="./pic/haohaha.PNG" width="250px">
-    </div>
+    ![haohaha](./pic/haohaha.PNG){:width="250px"}
 
     - 主要更新记录在[CS笔记](https://cs.haohaha.cn)
 
