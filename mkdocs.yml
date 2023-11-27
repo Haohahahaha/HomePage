@@ -43,7 +43,7 @@ nav:
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
 
-markdown_extentions:
+markdown_extensions:
     # Admonitions
     - admonition
     - pymdownx.details
