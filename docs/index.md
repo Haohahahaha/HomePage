@@ -4,9 +4,7 @@
 	<img src="./pic/haohaha.PNG" width="250px">
 </div>
 
-- ### 20230501：正式对外公开，六个分站都开始更新了。
-
-- ### 主要更新记录在[CS笔记](https://cs.haohaha.cn)
+- 主要更新记录在[CS笔记](https://cs.haohaha.cn)
 
 - 这是我的个人站，里面主要记录我的学习内容，欢迎交流！
 
@@ -26,13 +24,11 @@
 
 ### 我的其他平台：
 
-（不定期更新，因为考研时间紧张，敬请谅解~）
-
 [Bilibili](https://space.bilibili.com/1436476753)
 
 > 确实没时间更新，哈哈
 
-公众号（估计是没精力维护啊，真的）：
+公众号（没精力维护）：
 
 <div align="center">
 	<img src="./pic/QRCode.jpg" width="150px">
