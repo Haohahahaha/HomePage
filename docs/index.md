@@ -3,7 +3,7 @@
 !!! note "自我介绍"
 
 	<div align="center">
-        <img src="./pic/haohaha.PNG" width="50%">
+        <img src="./pic/haohaha.PNG" width="200px">
 	</div>
 
     - 主要更新记录在[CS笔记](https://cs.haohaha.cn)
