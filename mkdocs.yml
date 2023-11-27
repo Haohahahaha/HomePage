@@ -42,6 +42,13 @@ nav:
   - 英语笔记: http://eng.haohaha.cn
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
+
+markdown_extentions:
+    # Admonitions
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+
 extra:
   homepage: http://haohaha.cn
   social: # icons

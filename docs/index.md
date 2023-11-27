@@ -1,16 +1,18 @@
 # 主页
 
-<div align="center">
-	<img src="./pic/haohaha.PNG" width="250px">
-</div>
+!!! note "自我介绍"
 
-- 主要更新记录在[CS笔记](https://cs.haohaha.cn)
+    <div align="center">
+	    <img src="./pic/haohaha.PNG" width="250px">
+    </div>
 
-- 这是我的个人站，里面主要记录我的学习内容，欢迎交流！
+    - 主要更新记录在[CS笔记](https://cs.haohaha.cn)
 
-  - BIGC 计算机科学与技术系 大四本科在读
+    - 这是我的个人站，里面主要记录我的学习内容，欢迎交流！
 
-  - 学业规划：考研/一生一芯/rCore复刻
+        - BIGC 计算机科学与技术系 大四本科在读
+
+        - 学业规划：考研/一生一芯/rCore复刻
 
 ---
 
