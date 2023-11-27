@@ -28,7 +28,7 @@
 
     [Bilibili-浩哈哈哈哈](https://space.bilibili.com/1436476753)
 
-!!! wechat "公众号（没精力维护）"
+!!! pied-piper "公众号（没精力维护）"
 
     > 确实没时间更新，哈哈
 
