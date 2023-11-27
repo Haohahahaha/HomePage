@@ -16,23 +16,23 @@
 
 ---
 
-### 联系方式
+!!! mail "邮箱"
 
-  - 邮箱：1259203802@qq.com
+    1259203802@qq.com
 
-  - QQ：1259203802
+!!! qq "QQ"
 
----
+    1259203802
 
-### 我的其他平台：
+!!! bilibili "B站"
 
-[Bilibili](https://space.bilibili.com/1436476753)
+    [Bilibili-浩哈哈哈哈](https://space.bilibili.com/1436476753)
 
-> 确实没时间更新，哈哈
+!!! wechat "公众号（没精力维护）"
 
-公众号（没精力维护）：
+    > 确实没时间更新，哈哈
 
-<div align="center">
-	<img src="./pic/QRCode.jpg" width="150px">
-</div>
+    <div align="center">
+	    <img src="./pic/QRCode.jpg" width="150px">
+    </div>
 
