@@ -2,7 +2,8 @@ site_name: 浩哈哈哈哈
 theme: 
   name: material
   icon:
-    logo: material/library
+    logo: material/noodles
+  favicon: https://haohaha.cn/image/favicon.png
   palette:
     - scheme: slate # 夜间模式
       primary: deep purple
