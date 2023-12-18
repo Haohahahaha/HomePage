@@ -1,8 +1,8 @@
 # 友链：
 
-- [南慕青](https://cecilia.cool) （技术圈的好朋友）
+!!! note "[南慕青](https://cecilia.cool) （技术圈的好朋友）"
 
-  `Java学徒`
+    Java学徒
   
 - [一题都a不出来](https://github.com/SobSobDu/share-personal-note)（技术圈的好朋友）
 
