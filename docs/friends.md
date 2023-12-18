@@ -18,6 +18,8 @@
 
 !!! osca "[fighter YYDS](https://fighteryyds.github.io/fy-blog/)"
 
+	Linux 爱好者
+
 	> TRUELY FIGHTER
 
 
