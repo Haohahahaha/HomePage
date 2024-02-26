@@ -16,22 +16,12 @@
 
 	> 赵总，赵总~！
 
-!!! osca "[fighter YYDS](https://fighteryyds.github.io/fy-blog/)"
-
-	Linux 爱好者
-
-	> TRUELY FIGHTER
-
 
 <!----
-
-- [Amy Wang](https://amywang5.github.io/Amyhhh-blog/)
 
 - [APTX4869-CONAN](https://aptx4869-conan.github.io/zzp-blog/)
 
 - [An-momomo](https://an-momomo.github.io/mo-blog/)
-
-- [哈哈哈哈哈哈哈](https://zrqiq.github.io/zrq-blog/)
 
 - [空山虚雨](https://kongshanxuyu.github.io/zh-blog/)
 
