@@ -14,6 +14,7 @@
 
         - 学业规划：考研/一生一芯/rCore复刻
 
+<!--
 ---
 
 !!! mail "邮箱"
@@ -36,3 +37,4 @@
 	    <img src="./pic/QRCode.jpg" width="150px">
     </div>
 
+-->
