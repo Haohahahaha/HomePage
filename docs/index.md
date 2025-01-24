@@ -19,14 +19,6 @@
 <!--
 ---
 
-!!! mail "邮箱"
-
-    1259203802@qq.com
-
-!!! qq "QQ"
-
-    1259203802
-
 !!! bilibili "B站"
 
     [Bilibili-浩哈哈哈哈](https://space.bilibili.com/1436476753)

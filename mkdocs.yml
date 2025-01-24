@@ -32,6 +32,8 @@ edit_uri: edit/main/docs
 nav:
   - 主页:
     - index.md
+    - 关于我: me.md
+    - 联系方式: link.md
     - 友链: friends.md
     - OSCA团队: http://osca.haohaha.cn
   - CS笔记: http://cs.haohaha.cn
