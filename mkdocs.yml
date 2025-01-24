@@ -22,9 +22,16 @@ theme:
     - navigation.top
     - navigation.indexes
     - navigation.expand
+    - navigation.prune # 折叠
     - search.suggest
     - search.highlight
     - content.code.copy
+    # Instant Loading
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    # Anchor tracking
+    - navigation.tracking
   language: zh
 
 edit_uri: edit/main/docs
@@ -56,6 +63,20 @@ markdown_extensions:
     - pymdownx.emoji:
         emoji_index: !!python/name:material.extensions.emoji.twemoji
         emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    # Formatting
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+    # Diagrams
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.tasklist:
+        custom_checkbox: true
 
 extra:
   homepage: http://haohaha.cn
