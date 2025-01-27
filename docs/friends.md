@@ -16,6 +16,11 @@
 
 	> 赵总，赵总~！
 
+!!! osca "[BakeryDioOwner](https://xmbtx.github.io/xmbtx-blog/)"
+
+	解放思想，发展生产力！
+
+	> 灵感丰富的 Champion 青年
 
 
 
