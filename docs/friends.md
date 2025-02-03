@@ -8,7 +8,7 @@
 
 	> 赵总，赵总~！
 
-!!! osca "[BakeryDioOwner](https://xmbtx.github.io/xmbtx-blog/)"
+!!! osca "[BakeryDioOwner](https://bakerydioowner.github.io/)"
 
 	解放思想，发展生产力！
 
