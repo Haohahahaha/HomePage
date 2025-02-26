@@ -37,15 +37,15 @@ theme:
 edit_uri: edit/main/docs
 
 nav:
-  - 主页:
+  - Home:
     - index.md
     - 关于我: me.md
     - 联系方式: link.md
     - 友链: friends.md
     - OSCA团队: http://osca.haohaha.cn
-  - CS笔记: http://cs.haohaha.cn
-  - 闲聊波尔卡: http://chat.haohaha.cn 
-  - 算法打卡: http://alg.haohaha.cn
+  - Be_Rational: http://cs.haohaha.cn
+  - Chat_Polka: http://chat.haohaha.cn 
+  - Algorithm: http://alg.haohaha.cn
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
   - mkdocs/extra.css
