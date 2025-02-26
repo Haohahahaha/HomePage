@@ -1,6 +1,6 @@
 # 主页
 
-!!! note "自我介绍"
+!!! note "Hi，你好！"
 
 	<div align="center">
         <img src="./pic/haohaha.PNG" width="200px">
