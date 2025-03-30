@@ -2,6 +2,8 @@
 
 !!! danger "[Dueitt_Jesse](https://jesseht.fun/)"
 
+	自我介绍: 电量低时会假装恬静之人～
+
 	> 非常好朋友，爱来自马家沟男子职业学院😋
 
 !!! osca "[凶猫不太凶](https://xmbtx.github.io/xmbtx-blog/)"
@@ -10,7 +12,7 @@
 
 !!! osca "[BakeryDioOwner](https://bakerydioowner.github.io/)"
 
-	解放思想，发展生产力！
+	自我介绍: 解放思想，发展生产力！
 
 	> 灵感丰富的 Champion 青年
 
