@@ -10,6 +10,6 @@
 
 !!! tip "网站指南"
 
-    🔨[技术博客记录](https://cs.haohaha.cn/02-ubuntu/01-initializer/install/)
+    🔨[桃花潭 -- 个人服务器项目记录](https://peachlake.haohaha.cn/)
 
     🖋[周记](https://chat.haohaha.cn/1-Weekly/2026/)
