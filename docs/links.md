@@ -14,7 +14,7 @@
 !!! tip "若您认可上述内容，那么欢迎添加联系方式，欢迎交流！"
 
     !!! mail "邮箱"
-        1259203802@qq.com
+        Haohahahaha_@outlook.com
 
     !!! wechat "微信"
         Haohahahaha_
