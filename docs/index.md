@@ -1,5 +1,14 @@
 # Home
 
+
+!!! tip "网站指南"
+
+    ✨[CS 学习笔记](https://cs.haohaha.cn/)
+
+    🔨[桃花潭 -- 个人服务器项目记录](https://peachlake.haohaha.cn/)
+
+    🖋[周记](https://chat.haohaha.cn/1-Weekly/2026/)
+
 !!! note "Hi，你好！"
 
 	<div align="center">
@@ -7,9 +16,3 @@
 	</div>
 
     - 这是我的个人站，其中记录着我对世界的探索……欢迎[交流](https://haohaha.cn/links/)！
-
-!!! tip "网站指南"
-
-    🔨[桃花潭 -- 个人服务器项目记录](https://peachlake.haohaha.cn/)
-
-    🖋[周记](https://chat.haohaha.cn/1-Weekly/2026/)
