@@ -19,4 +19,4 @@
 
 !!! warning "我的日程"
 
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FShanghai&showPrint=0&mode=WEEK&hl=zh_CN&showTabs=0&title=%E6%B5%A9%E5%93%88%E5%93%88%E5%93%88%E5%93%88_&src=emhhbmdoYW56aGU1NjM1MTk2MjdAZ21haWwuY29t&src=MzNjMmNkMDY3YWJmMWZiNGQ0OGE3NjY0MWU1OTdhOTg4ZTkyOGU3ZTM1M2M2ZTBhOGJlODBjY2IzYzFjMjgwMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23657b5f&color=%23f09300" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FShanghai&showPrint=0&mode=WEEK&hl=zh_CN&showTz=0&showCalendars=0&showTabs=0&title=%E6%B5%A9%E5%93%88%E5%93%88%E5%93%88%E5%93%88_&src=emhhbmdoYW56aGU1NjM1MTk2MjdAZ21haWwuY29t&src=NTdkNzI1YTczN2U2ODM1ODI4N2ZmNjg0NWE2ZTI3NGM3ZjVhMGU0ZDAzN2QxNjM1NDA0MDYyMzE4OTRjNzYyOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MzNjMmNkMDY3YWJmMWZiNGQ0OGE3NjY0MWU1OTdhOTg4ZTkyOGU3ZTM1M2M2ZTBhOGJlODBjY2IzYzFjMjgwMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23657b5f&color=%23debbe7&color=%23bb6e3a" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
