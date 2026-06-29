@@ -1,10 +1,13 @@
+import os
+import re
 import requests
+from datetime import datetime, timedelta
 
-ICS_URL = "https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/7b3272d9-59ae-4b21-a6ee-93055d9dabed/cid-7D0F5EF787CF53A7/calendar.ics"
+ICS_URL = os.environ["ICS_URL"]
 
 text = requests.get(ICS_URL).text
 
-# 修复微软私有时区
+# 把微软私有时区改掉（虽然最后会删掉 TZID）
 text = text.replace(
     "TZID:Customized Time Zone",
     "TZID:Asia/Shanghai"
@@ -15,15 +18,48 @@ text = text.replace(
     "TZID=Asia/Shanghai"
 )
 
-# 可选：补一个标准时区声明
-text = text.replace(
-    "BEGIN:VTIMEZONE\nTZID:Asia/Shanghai",
-    """BEGIN:VTIMEZONE
-TZID:Asia/Shanghai
-X-LIC-LOCATION:Asia/Shanghai"""
+
+def convert_to_utc(match):
+    """
+    DTSTART;TZID=Asia/Shanghai:20260401T080000
+    ->
+    DTSTART:20260401T000000Z
+    """
+
+    field = match.group(1)      # DTSTART 或 DTEND
+    dt_str = match.group(2)     # 20260401T080000
+
+    local_time = datetime.strptime(dt_str, "%Y%m%dT%H%M%S")
+
+    # 北京时间 -> UTC
+    utc_time = local_time - timedelta(hours=8)
+
+    return f"{field}:{utc_time.strftime('%Y%m%dT%H%M%SZ')}"
+
+
+# 转换 DTSTART
+text = re.sub(
+    r"(DTSTART);TZID=Asia/Shanghai:(\d{8}T\d{6})",
+    convert_to_utc,
+    text
 )
 
-with open("docs/calendar_1.ics", "w", encoding="utf-8") as f:
+# 转换 DTEND
+text = re.sub(
+    r"(DTEND);TZID=Asia/Shanghai:(\d{8}T\d{6})",
+    convert_to_utc,
+    text
+)
+
+# 删除整个 VTIMEZONE 块（UTC 不需要）
+text = re.sub(
+    r"BEGIN:VTIMEZONE.*?END:VTIMEZONE\r?\n",
+    "",
+    text,
+    flags=re.DOTALL
+)
+
+with open("docs/calendar.ics", "w", encoding="utf-8") as f:
     f.write(text)
 
-print("ICS 已更新")
+print("ICS 已转换为 UTC")
