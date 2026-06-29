@@ -26,6 +26,8 @@ jobs:
       - run: pip install requests
 
       - run: python scripts/fix_ics.py
+        env:
+          OUTLOOK_ICS_URL: ${{ secrets.OUTLOOK_ICS_URL }}
 
       - name: Commit changes
         run: |
