@@ -3,7 +3,7 @@ import re
 import requests
 from datetime import datetime, timedelta
 
-ICS_URL = os.environ["ICS_URL"]
+ICS_URL = os.environ["https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/7b3272d9-59ae-4b21-a6ee-93055d9dabed/cid-7D0F5EF787CF53A7/calendar.ics"]
 
 text = requests.get(ICS_URL).text
 
