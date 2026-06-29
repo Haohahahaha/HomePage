@@ -19,4 +19,4 @@
 
 !!! warning "我的日程"
 
-    <iframe src="https://calendar.google.com/calendar/embed?src=to95hbnv2eddt07olgk4f8ba3s43af09%40import.calendar.google.com&ctz=Asia%2FShanghai&mode=WEEK&hl=zh_CN" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FShanghai&showPrint=0&mode=WEEK&title=%E6%B5%A9%E5%93%88%E5%93%88%E5%93%88%E5%93%88_&showCalendars=0&showTabs=0&hl=zh_CN&src=emhhbmdoYW56aGU1NjM1MTk2MjdAZ21haWwuY29t&color=%23657b5f" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>s
