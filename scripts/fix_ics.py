@@ -23,7 +23,7 @@ TZID:Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai"""
 )
 
-with open("docs/calendar.ics", "w", encoding="utf-8") as f:
+with open("docs/calendar_1.ics", "w", encoding="utf-8") as f:
     f.write(text)
 
 print("ICS 已更新")
